@@ -1,143 +1,143 @@
 [[HSL]]
 arch = "aarch64"
-git-tree-sha1 = "a8277b5bd7b199b2a4c71384be481e1a99d040d3"
+git-tree-sha1 = "e04758bee3b54e6beff189ac80bf85336c66391a"
 os = "macos"
 
     [[HSL.download]]
-    sha256 = "5d3fe537130ecf277bc05bf1bab8374ab8b292a97416ded073cb2bba2c299473"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v1.0.0+0/HSL.v1.0.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "344c08260cfdd78ac1c0cb65067694cf639f4debf967bcbca0b1562c769374ed"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v2.0.0+0/HSL.v2.0.0.aarch64-apple-darwin.tar.gz"
 [[HSL]]
 arch = "aarch64"
-git-tree-sha1 = "185b1bb14efc38ee81ff9bb34c2a07410f6f8c13"
+git-tree-sha1 = "9e3c0042dafa014a4b211d78966c934f2aaf9711"
 libc = "glibc"
 os = "linux"
 
     [[HSL.download]]
-    sha256 = "da48465d95c888812408cd0f873b6d382a20d037ecbc2615158c44ad6f2d7a68"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v1.0.0+0/HSL.v1.0.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "fc9ad68b4d4760206cd31ed8b0623b4b336bc671eb731995d25104ac8eb3bfe4"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v2.0.0+0/HSL.v2.0.0.aarch64-linux-gnu.tar.gz"
 [[HSL]]
 arch = "aarch64"
-git-tree-sha1 = "bd91dee063216f90cd3338f16f60103c3442a9d8"
+git-tree-sha1 = "effb3960e31092d1b302cffd6caffd11a3c38c4b"
 libc = "musl"
 os = "linux"
 
     [[HSL.download]]
-    sha256 = "bfb5c106da4fd3136b389ef8a07fd0b9be3f200def79b07e888ea37b6da272de"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v1.0.0+0/HSL.v1.0.0.aarch64-linux-musl.tar.gz"
+    sha256 = "781ed91adcde0d5c6e230d673f837931b5ba6d9fe4c938e99eeeab39447a7db3"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v2.0.0+0/HSL.v2.0.0.aarch64-linux-musl.tar.gz"
 [[HSL]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "3b64a7deb26a9b7afe5ff84196e8835ed0c1d9b8"
+git-tree-sha1 = "53f1ce8bbfc6ab7bf8c99c682aa69b06150e34b1"
 libc = "glibc"
 os = "linux"
 
     [[HSL.download]]
-    sha256 = "b8008dd93b776e8c808632f00e0cd26e3a6b488c6a5a153fb6b06fc12f3e39ac"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v1.0.0+0/HSL.v1.0.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "a66d3fe584f3281eb27cd5eaa3b1937698b2106d31c07ba137f48df131354ff6"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v2.0.0+0/HSL.v2.0.0.armv6l-linux-gnueabihf.tar.gz"
 [[HSL]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "e697f588476527c2153185db1bc59ad65efb6d46"
+git-tree-sha1 = "11079644a4abbaa5cbf9f0a1c6e14fc18c2bd8ea"
 libc = "musl"
 os = "linux"
 
     [[HSL.download]]
-    sha256 = "6b27420651aa0524030e4e35de53edf7c32bf262d86ed627c4461ece657948be"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v1.0.0+0/HSL.v1.0.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "d32ef3caa288b7394ba0b335e7bae7a40779a25664266b712060636aeb17c5e2"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v2.0.0+0/HSL.v2.0.0.armv6l-linux-musleabihf.tar.gz"
 [[HSL]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "432f5b0e089648b1da991cba9722502c632be955"
+git-tree-sha1 = "ae0809a003e5b47bd7b42a5a5241700977dffe5a"
 libc = "glibc"
 os = "linux"
 
     [[HSL.download]]
-    sha256 = "beb56bd64f932d55c95268987ef394192f49cbcbc49eae720570f80b9cb018bb"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v1.0.0+0/HSL.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "1c9cb1f42f7f2dc9b7d4189b54a2bf9f5f4a04ce5a9a92b57ebfa244346beb43"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v2.0.0+0/HSL.v2.0.0.armv7l-linux-gnueabihf.tar.gz"
 [[HSL]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "5c166ad40b3295aaec9de5771396138986f5085f"
+git-tree-sha1 = "62a4d787afa82612ede8c52462948b638392a8a1"
 libc = "musl"
 os = "linux"
 
     [[HSL.download]]
-    sha256 = "7ecad650f5e3ec0641ca44bf99cfefe25642acc2f4cdea00a6b7b3e76dd1bc03"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v1.0.0+0/HSL.v1.0.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "2fabad17dd9a5a56fd2643382ce5dc366977da8040b432a70550687c4a82cd5a"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v2.0.0+0/HSL.v2.0.0.armv7l-linux-musleabihf.tar.gz"
 [[HSL]]
 arch = "i686"
-git-tree-sha1 = "881253b20518d2e8f6981f04464a9b88f224ee18"
+git-tree-sha1 = "e6ecbaa138cb0bf5b9f115edc37dad87be61f8b4"
 libc = "glibc"
 os = "linux"
 
     [[HSL.download]]
-    sha256 = "0e3292a2ab8185fd50928d06c871c2bee0974465b2c083e992ae92b2a8731215"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v1.0.0+0/HSL.v1.0.0.i686-linux-gnu.tar.gz"
+    sha256 = "58737cdfe3e3b4de420021e6ac0f1d3ce0a1c3957cd915a8ef473fba0d5efc2c"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v2.0.0+0/HSL.v2.0.0.i686-linux-gnu.tar.gz"
 [[HSL]]
 arch = "i686"
-git-tree-sha1 = "4cbfed48524044494f46b62619f0c8ddb0bc2fff"
+git-tree-sha1 = "b1cdcbef2ee3e086b9ef3d4d82eed30e45162a4d"
 libc = "musl"
 os = "linux"
 
     [[HSL.download]]
-    sha256 = "ac04912acc37355690ae7fceb66fb692a2947057f60e38e79508da1dad9c2e35"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v1.0.0+0/HSL.v1.0.0.i686-linux-musl.tar.gz"
+    sha256 = "f625a90badfc4a2d38a39724ac0c1f300d8ec271bf1a10e3eaae7bf290939150"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v2.0.0+0/HSL.v2.0.0.i686-linux-musl.tar.gz"
 [[HSL]]
 arch = "i686"
-git-tree-sha1 = "9759ed366d9064267e16397c112a013f4bf2d35a"
+git-tree-sha1 = "eb280e094802383bec6341a8eede64124520e0b1"
 os = "windows"
 
     [[HSL.download]]
-    sha256 = "5d3684df8136b40e6454366b4c694233276ef6a1e7d01e3f0cacbedd76fc74e5"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v1.0.0+0/HSL.v1.0.0.i686-w64-mingw32.tar.gz"
+    sha256 = "7eef9f266b4d1eb626ef1aa54a47a5420b9985c742e23ac5cf45c183927c04e5"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v2.0.0+0/HSL.v2.0.0.i686-w64-mingw32.tar.gz"
 [[HSL]]
 arch = "powerpc64le"
-git-tree-sha1 = "2ff2046b0cf9788e61d6c06e404fb5876371539f"
+git-tree-sha1 = "51ecec4ed7ed6b5b30793e8b7cc9d15cb2a10cc8"
 libc = "glibc"
 os = "linux"
 
     [[HSL.download]]
-    sha256 = "dad378f85786ecff04e5d3991b369e73b4d8d317b95d7a9decdb01404937effb"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v1.0.0+0/HSL.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "f39e890b7352e8aad71f8c738e4e0282b7041cb6a768cab21f84b620384969f7"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v2.0.0+0/HSL.v2.0.0.powerpc64le-linux-gnu.tar.gz"
 [[HSL]]
 arch = "x86_64"
-git-tree-sha1 = "c2903ec4beda3049a51e07b29e851095c650bc5f"
+git-tree-sha1 = "5b1ee9a1f43405d217e65aa634d37d1ecca3576b"
 os = "macos"
 
     [[HSL.download]]
-    sha256 = "1ed7e768e6781b4bb75720360c75cf9b4551a449099dd4d1f8cef6fccf523d58"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v1.0.0+0/HSL.v1.0.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "9ec61ef0f4b4d87f4088090dec17fc98285384fa62937cc2d1b7572efb975271"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v2.0.0+0/HSL.v2.0.0.x86_64-apple-darwin.tar.gz"
 [[HSL]]
 arch = "x86_64"
-git-tree-sha1 = "ecece3e2c69a413a0e935cf52e03a3ad5492e137"
+git-tree-sha1 = "d66a9ad3ab08b6453bbe78e728fccc106f5a1050"
 libc = "glibc"
 os = "linux"
 
     [[HSL.download]]
-    sha256 = "2c1bda38dcc5d2a2bba8db53cb677d5e403711a40c005f639480923cbd137c93"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v1.0.0+0/HSL.v1.0.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "5bbae145c56b4651a2ca78417c2a5494cc8a55fc3373cceaadc1efb2222df66e"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v2.0.0+0/HSL.v2.0.0.x86_64-linux-gnu.tar.gz"
 [[HSL]]
 arch = "x86_64"
-git-tree-sha1 = "3438ba7ff47dc4fca541e2d64d5027d1f05dda9a"
+git-tree-sha1 = "32ceaa137dfcc9c2a990d65eecedb683bbf6c5f6"
 libc = "musl"
 os = "linux"
 
     [[HSL.download]]
-    sha256 = "d172ef029a1e3f22f16f8ec02a3abc90a34aff1bb44e1bb841cb303f9fa109b6"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v1.0.0+0/HSL.v1.0.0.x86_64-linux-musl.tar.gz"
+    sha256 = "2020c548858d6f5baaacb1bf1f923afc15f22ebe7998e8a63bce699624a783cf"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v2.0.0+0/HSL.v2.0.0.x86_64-linux-musl.tar.gz"
 [[HSL]]
 arch = "x86_64"
-git-tree-sha1 = "c8b8c3dc9e9d615787ff60caf8b5be8a199dc322"
+git-tree-sha1 = "9d01076f43a04cb381333821950b3a1ad8726def"
 os = "freebsd"
 
     [[HSL.download]]
-    sha256 = "fb717b5f775902b4365a8ceea31f603d1c0a8739ca51867744831154f054b99f"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v1.0.0+0/HSL.v1.0.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "20c29b30778a9fb78f24c6fb733bbaa4fdb70b50fe5117826668158bf0c89f57"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v2.0.0+0/HSL.v2.0.0.x86_64-unknown-freebsd.tar.gz"
 [[HSL]]
 arch = "x86_64"
-git-tree-sha1 = "9f4db0ff6bb86eca80af47ee4025c8e402c5d3f4"
+git-tree-sha1 = "6a9bbd38c80718e9eb6d302c238dd2e422140665"
 os = "windows"
 
     [[HSL.download]]
-    sha256 = "77bf65e8040d063494bc91a83eb46f987fb275701b32b7dbf30ef2b12728c205"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v1.0.0+0/HSL.v1.0.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "922668583f85eebf72f2f8d3427e97028f1777ef171edb97372dcda244b3a6d7"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v2.0.0+0/HSL.v2.0.0.x86_64-w64-mingw32.tar.gz"
