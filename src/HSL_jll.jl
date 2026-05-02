@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("HSL")
-JLLWrappers.@generate_main_file("HSL", UUID("017b0a0e-03f4-516a-9b91-836bbd1904dd"))
+JLLWrappers.@generate_main_file("HSL", Base.UUID("017b0a0e-03f4-516a-9b91-836bbd1904dd"))
 end  # module HSL_jll
