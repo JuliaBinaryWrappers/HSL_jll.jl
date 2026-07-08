@@ -1,178 +1,178 @@
 [[HSL]]
 arch = "aarch64"
-git-tree-sha1 = "0ca739926662938c1f3b02928c114e5c98d3d04e"
+git-tree-sha1 = "dd41cfbea4ae0c6594169c578d098354438a4e64"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[HSL.download]]
-    sha256 = "3f6c320373957153f80b0c9a65b05536dcac3574e2033569081e80caa9d3d550"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.5+0/HSL.v4.0.5.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "0b45f88a96bd10b6ac70a876c472790af2d34702e1310d6226ec44ea88b10a03"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.6+0/HSL.v4.0.6.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[HSL]]
 arch = "aarch64"
-git-tree-sha1 = "f795147aa682946a0df0341c22a73fed357e9805"
+git-tree-sha1 = "cf169e1a72ab2c67386ecb64e931f000275250bc"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[HSL.download]]
-    sha256 = "a037f624cbba42dc2d478b81d28deae0f6cd5cd17ce4f51c9bbef06d6018331b"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.5+0/HSL.v4.0.5.aarch64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "bde25ad7dd68ae28d5bc2ed1b1fa859c17c7f845f1ef67e32d9c996be5fe5811"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.6+0/HSL.v4.0.6.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[HSL]]
 arch = "aarch64"
-git-tree-sha1 = "23d71cf92c84d29465bf98e01962239482deb763"
+git-tree-sha1 = "800bf7ce53934ced0495930ddc57c5a44932e8d5"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[HSL.download]]
-    sha256 = "b727ffaffada2d00604e7c56f8fa913a6e9034e6b3fbf90b20052fc74b61a2d4"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.5+0/HSL.v4.0.5.aarch64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "9a64305f2d142786659993044e9b368da8d5f2fbc138307fef33667ad0f6ff37"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.6+0/HSL.v4.0.6.aarch64-linux-musl-libgfortran5.tar.gz"
 [[HSL]]
 arch = "aarch64"
-git-tree-sha1 = "a3873371ae24051af63e08934008d47155229f0f"
+git-tree-sha1 = "db6bcc68dcf908a962e23f16ea517081bfa83be0"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[HSL.download]]
-    sha256 = "d6af36d829cc1f5243ae25b0ce9e124eef5f589e13faa798ba2a9c3ef4478836"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.5+0/HSL.v4.0.5.aarch64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "7b14b8270ad11fd13ba08f6dfa173afe019556911d69286eb56a2c32980a0534"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.6+0/HSL.v4.0.6.aarch64-unknown-freebsd-libgfortran5.tar.gz"
 [[HSL]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "ececd3c6f16393622b651f2c3e0ed9b0200b0c6b"
+git-tree-sha1 = "0545cf12297a12f24959d40b38b54cc47becdb51"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[HSL.download]]
-    sha256 = "989c31b67552d9b05a4827da919b061a8b6aa044d7221a56dd0e1b7a30140b5e"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.5+0/HSL.v4.0.5.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "7fdda7ef1cb8bb7cd1c0cb8190135990caa23104d208ee742058843bcdd50c3a"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.6+0/HSL.v4.0.6.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
 [[HSL]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "c646a91102b8be431b12461ee8038761942f8f6b"
+git-tree-sha1 = "65c7d331a81fa5909de84e9ba802ffbe1bc2e8dc"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[HSL.download]]
-    sha256 = "3f26ff61816246cdd40096b059b1e042d2370f0b773062aa570b860abc35d3f8"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.5+0/HSL.v4.0.5.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "8ae789639c6e8c4ef16676b63f10e4fcb5e2c0c698d5850d832e8b70e77335a0"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.6+0/HSL.v4.0.6.armv6l-linux-musleabihf-libgfortran5.tar.gz"
 [[HSL]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "e6d4ae16917885802ef000732bd4bb28edcef969"
+git-tree-sha1 = "9c7bfe9c59433e000612caca9c723a31f3fc0628"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[HSL.download]]
-    sha256 = "f56d91f7068e272ec59ba7d66662630385678ac5569e666bcfce236b648cb83f"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.5+0/HSL.v4.0.5.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "52221605ddfab21a230a7245f2ca01686c4bcc424ac7f04f71ce9a94eacabae9"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.6+0/HSL.v4.0.6.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[HSL]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "f287c99c1bffec9dc82fe0654e04191c33aa0b34"
+git-tree-sha1 = "9933bb1631ba38ea22cbf4d07d4521da3068fbf6"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[HSL.download]]
-    sha256 = "664b10e3e2aa06285fc379a39ce1c1595832565d7007395cc20418aaa043f24b"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.5+0/HSL.v4.0.5.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "c8b952dd9b90d13f8a42378f8833d22823478f7bc283f1ea9c98fa720ed6ef22"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.6+0/HSL.v4.0.6.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[HSL]]
 arch = "i686"
-git-tree-sha1 = "58be93402b60b5324670dbdccd9140aecce28051"
+git-tree-sha1 = "dfc55bc50dcf6d531b0e01813030efa9a7c82774"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[HSL.download]]
-    sha256 = "9aa3075abdfff18fbf1bd595312de8127bc5b9dc26eacd68a52a4a399db3bd3a"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.5+0/HSL.v4.0.5.i686-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "4cc08e8dbaeccb0c816df119d151ac1e0852b70252db1e0c4b148545da7ebd95"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.6+0/HSL.v4.0.6.i686-linux-gnu-libgfortran5.tar.gz"
 [[HSL]]
 arch = "i686"
-git-tree-sha1 = "204190873cc2d95aa5a504ee40574490f2a71519"
+git-tree-sha1 = "65385924746f5a14d920fe40ef8bbb8e073d3558"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[HSL.download]]
-    sha256 = "aaa57f36a8f3906b87166be2dd4de977b138852839d552244b76153cf425d558"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.5+0/HSL.v4.0.5.i686-linux-musl-libgfortran5.tar.gz"
+    sha256 = "471f41543dd5cb0aa564fd43b05b3a0cf6da83210615a833c4143ef2832711d2"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.6+0/HSL.v4.0.6.i686-linux-musl-libgfortran5.tar.gz"
 [[HSL]]
 arch = "i686"
-git-tree-sha1 = "3137b8354347c14ee6163f9bbd19b3c901861172"
+git-tree-sha1 = "98bb2cbb60d150935db68b97eef5c0636a29ef1c"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[HSL.download]]
-    sha256 = "07000836814a7ed0b711d876ce0d1c33930148714cad626a3c17b97dff184d23"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.5+0/HSL.v4.0.5.i686-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "bd7d889f3b03faf267891e76436ff88ae5e34728b4249f35e5a6dfaa6b930477"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.6+0/HSL.v4.0.6.i686-w64-mingw32-libgfortran5.tar.gz"
 [[HSL]]
 arch = "powerpc64le"
-git-tree-sha1 = "c8b19f32a86e194d6f4cd24b18cd80c58cc9cedd"
+git-tree-sha1 = "58c29a6b8f0f10fc953f66d32d6daf52e451c36a"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[HSL.download]]
-    sha256 = "a63ade2cc8e74385d09435378dc32c2a2039bfde60f3ebd9292f8c8f8afe6ef7"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.5+0/HSL.v4.0.5.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "562fe2b43d7f239b24611c8bf8880f0d4afb3314c618e4d79c75a37ff0e74e65"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.6+0/HSL.v4.0.6.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[HSL]]
 arch = "riscv64"
-git-tree-sha1 = "a05fc9fb0f38400e9ceaa5d907e6daed976a87d7"
+git-tree-sha1 = "ef50079ab78a387067e408fb7c7c19352cc8670e"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[HSL.download]]
-    sha256 = "36af2769b498bb0493b421122eaa0036222da7292e170966e6836ed10be3cda8"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.5+0/HSL.v4.0.5.riscv64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "d7a4bdfc500ab7ece0a7385415892ec0850379c84d060e5929c1466571a55a92"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.6+0/HSL.v4.0.6.riscv64-linux-gnu-libgfortran5.tar.gz"
 [[HSL]]
 arch = "x86_64"
-git-tree-sha1 = "2adfc88da316020a8d026fe82b49385ccbfb6db9"
+git-tree-sha1 = "337e3575283cd4845edbf65c1a8aafff2fb92945"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[HSL.download]]
-    sha256 = "0d50010732c54659237cfee9211a39ae2a7c2dc1baee426056f167db5456eabc"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.5+0/HSL.v4.0.5.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "2f103d0412a8755e8db15568b7b6771d1b044b514eb155c1c10cf8d9fc3efcb8"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.6+0/HSL.v4.0.6.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[HSL]]
 arch = "x86_64"
-git-tree-sha1 = "8a23f4d36df38f52af07cb3def0ab6cda772c840"
+git-tree-sha1 = "1a92e5b95830b425db1ad8f555e08f6479e0cc7f"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[HSL.download]]
-    sha256 = "fe28d48c162c1f60a793261638794e78912b80ad4b3321432a9d08b62ce0b01f"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.5+0/HSL.v4.0.5.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "bed9d44055c490e1ad81446842721d827394429fe54ebbfb7cd4bd25cadc289f"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.6+0/HSL.v4.0.6.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[HSL]]
 arch = "x86_64"
-git-tree-sha1 = "ed3307aa229ddc2ab5a02a7dd538a30cd83de40d"
+git-tree-sha1 = "9461b062bd0d8b7675261d7fe6a9a9b74c83dff8"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[HSL.download]]
-    sha256 = "d870e0e5aa0f986dd7db9958825fbc21c7854f647a9ebb99662745854e37af97"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.5+0/HSL.v4.0.5.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "ed717cf49e84da36d15fe309c8de6a40c921c12b783e342c5a4e1f380d31aae0"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.6+0/HSL.v4.0.6.x86_64-linux-musl-libgfortran5.tar.gz"
 [[HSL]]
 arch = "x86_64"
-git-tree-sha1 = "32b408a064813c503d1de2b0aa843f79315ab50a"
+git-tree-sha1 = "6c7baba16cd964b9dc89f5721311ce405e2710a5"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[HSL.download]]
-    sha256 = "77e86e7d739aef4f3bd002d61f13511cc1f8186c0abb1df49f9c192f456c077f"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.5+0/HSL.v4.0.5.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "86e9428f8c0acac8b8e7f040a22e2313e09844118e88e203ba0f6d04c038263d"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.6+0/HSL.v4.0.6.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[HSL]]
 arch = "x86_64"
-git-tree-sha1 = "7344616f11f34c7755e4e181cb37ad7f0443e464"
+git-tree-sha1 = "e6a0c9541e2ca264d7368d02ee1ca4ca8f471a58"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[HSL.download]]
-    sha256 = "fa0119051652deba830dd54eeb9a0a636321be4f08bb6336a9e75cfe9c9b3fe1"
-    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.5+0/HSL.v4.0.5.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "0328d61dd008cd28997d9e1d6d04764454e696ff9fbdd74a072f78e97a682cb2"
+    url = "https://github.com/JuliaBinaryWrappers/HSL_jll.jl/releases/download/HSL-v4.0.6+0/HSL.v4.0.6.x86_64-w64-mingw32-libgfortran5.tar.gz"
